@@ -4,3 +4,11 @@ I was here
 * Hello Vlad
 * Hello Alex x2
 * Hello Cosmin
+
+```bash
+# 1. First, clone the repo
+git clone git@github.com:alexandrunt/L11.gitt
+cd sketch-to-art
+# 2. Run!
+npm install
+```
